@@ -1,2 +1,3 @@
 # Task-3--Elevate-Labs-
 Linear Regression
+This project demonstrates a simple regression analysis on the Titanic dataset using scikit-learn. The steps include importing and preprocessing the data by handling missing values, encoding categorical variables, and standardizing numerical features. The cleaned dataset is then split into training and testing sets. A Linear Regression model is fitted using sklearn.linear_model, and its performance is evaluated using MAE (Mean Absolute Error), MSE (Mean Squared Error), and R² (coefficient of determination). The regression line is visualized for a selected feature, and the model’s coefficients are interpreted to understand the influence of each variable on survival prediction.
